@@ -1,1 +1,1 @@
-This file contains db related code
+THIS IS JDBC FILE
